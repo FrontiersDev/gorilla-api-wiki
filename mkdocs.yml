@@ -8,8 +8,8 @@ repo_url: https://github.com/FrontiersDev/gorilla-api
 
 theme:
   name: material
-  logo: assets/logo.svg
-  favicon: assets/logo.svg
+  logo: assets/logo.avif
+  favicon: assets/logo.avif
   palette: 
     - scheme: slate 
       primary: teal
