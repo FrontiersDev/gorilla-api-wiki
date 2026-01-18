@@ -10,6 +10,5 @@ The **Gorilla Cosmetics API** is a self-hosted REST API for managing, searching,
 
 ## Quick Start
 
-Start the server:
-```bash
-node server.js
+Domain:
+https://gorilla-api.onrender.com
