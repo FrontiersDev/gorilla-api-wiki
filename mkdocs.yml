@@ -1,14 +1,15 @@
 site_name: Gorilla API
 site_url: http://localhost:3000
 site_description: REST API for Gorilla Tag developers to access stuff like cosmetic data.
-site_author: TornadoVR
-logo: assets/logo.svg
+site_author: TornadoVR1
 
 repo_name: Gorilla API
 repo_url: https://github.com/FrontiersDev/gorilla-api
 
 theme:
   name: material
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
   palette: 
     - scheme: slate 
       primary: teal
