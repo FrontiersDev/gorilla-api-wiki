@@ -1,11 +1,10 @@
 site_name: Gorilla Cosmetics API
-site_url: https://frontiersdev.github.io/gorilla-api-wiki/
-site_description: Official documentation for the Gorilla Tag Cosmetics API.
+site_url: http://localhost:3000
+site_description: REST API for Gorilla Tag developers to access cosmetic data.
 site_author: MonkeDev
 
-# Point this to your NEW wiki repository URL
-repo_name: Wiki Source
-repo_url: https://github.com/FrontiersDev/gorilla-api-wiki
+repo_name: Gorilla API
+repo_url: https://github.com/yourusername/gorilla-api
 
 theme:
   name: material
@@ -13,9 +12,15 @@ theme:
     - scheme: slate 
       primary: teal
       accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
     - scheme: default
       primary: teal
       accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
   features:
     - content.code.copy
     - navigation.expand
@@ -24,10 +29,7 @@ theme:
 nav:
   - Home: index.md
   - API Reference:
-    - Get All Items: api/get-all.md
-    - Item Details & Downloads: api/item-details.md
-    - Upload Item: api/upload.md
-  - Data Models: models.md
+    - Cosmetic Requesting: api/item-details.md
   - Developer Guides:
     - Discord Bot (Node.js): guides/discord-bot.md
     - Modding (C#): guides/modding.md
