@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://localhost:3000/</loc>
+         <lastmod>2026-01-18</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:3000/api/downloads/</loc>
+         <lastmod>2026-01-18</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:3000/api/get-single/</loc>
+         <lastmod>2026-01-18</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:3000/api/item-details/</loc>
+         <lastmod>2026-01-18</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:3000/guides/discord-bot/</loc>
+         <lastmod>2026-01-18</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:3000/guides/frontend/</loc>
+         <lastmod>2026-01-18</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:3000/guides/modding/</loc>
+         <lastmod>2026-01-18</lastmod>
+    </url>
+</urlset>
